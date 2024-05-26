@@ -3,7 +3,13 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/R1/variables/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R2/string/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R3/reference/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R4/dangling_reference/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/R1/variables/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R2/string/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R3/reference/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R4/dangling_reference/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
