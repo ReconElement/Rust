@@ -7,11 +7,53 @@
       <sourceFolder url="file://$MODULE_DIR$/R3/reference/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/R4/dangling_reference/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/R4/slices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R4/slice2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R4/structs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R4/structs2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R4/structs3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R4/enums/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R4/matches/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R4/matches2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R4/matches3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R4/struct5/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R4/structs4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Crates/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates_2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R4/modules_1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R4/modules_2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R4/modules_3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R4/modules_4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R5/collections_1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R5/collections_2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R5/collections_3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R5/collections_4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R5/collections_5/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/R1/variables/target" />
       <excludeFolder url="file://$MODULE_DIR$/R2/string/target" />
       <excludeFolder url="file://$MODULE_DIR$/R3/reference/target" />
       <excludeFolder url="file://$MODULE_DIR$/R4/dangling_reference/target" />
       <excludeFolder url="file://$MODULE_DIR$/R4/slices/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R4/slice2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R4/structs/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R4/structs2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R4/structs3/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R4/enums/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R4/matches/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R4/matches2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R4/matches3/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R4/struct5/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R4/structs4/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Crates/target" />
+      <excludeFolder url="file://$MODULE_DIR$/crates_2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R4/modules_1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R4/modules_2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R4/modules_3/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R4/modules_4/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R5/collections_1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R5/collections_2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R5/collections_3/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R5/collections_4/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R5/collections_5/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
