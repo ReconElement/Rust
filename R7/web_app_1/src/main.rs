@@ -13,7 +13,6 @@ async fn manual_hello()->impl Responder{
 }
 
 
-#[tokio::main]
 #[actix_web::main]
 async fn main() -> std::io::Result<()> {
     HttpServer::new(|| {

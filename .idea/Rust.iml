@@ -28,6 +28,14 @@
       <sourceFolder url="file://$MODULE_DIR$/R5/collections_3/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/R5/collections_4/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/R5/collections_5/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R5/collections_6/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R6/string_1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R6/string_2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R6/string_3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R6/string_4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R7/web_app_1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R1/guessing_game/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R1/p1/hello_cargo/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/R1/variables/target" />
       <excludeFolder url="file://$MODULE_DIR$/R2/string/target" />
       <excludeFolder url="file://$MODULE_DIR$/R3/reference/target" />
@@ -54,6 +62,14 @@
       <excludeFolder url="file://$MODULE_DIR$/R5/collections_3/target" />
       <excludeFolder url="file://$MODULE_DIR$/R5/collections_4/target" />
       <excludeFolder url="file://$MODULE_DIR$/R5/collections_5/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R5/collections_6/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R6/string_1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R6/string_2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R6/string_3/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R6/string_4/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R7/web_app_1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R1/guessing_game/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R1/p1/hello_cargo/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
