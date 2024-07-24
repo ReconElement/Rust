@@ -36,6 +36,7 @@
       <sourceFolder url="file://$MODULE_DIR$/R7/web_app_1/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/R1/guessing_game/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/R1/p1/hello_cargo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/R1/std_input/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/R1/variables/target" />
       <excludeFolder url="file://$MODULE_DIR$/R2/string/target" />
       <excludeFolder url="file://$MODULE_DIR$/R3/reference/target" />
@@ -70,6 +71,7 @@
       <excludeFolder url="file://$MODULE_DIR$/R7/web_app_1/target" />
       <excludeFolder url="file://$MODULE_DIR$/R1/guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/R1/p1/hello_cargo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/R1/std_input/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
